@@ -1,8 +1,8 @@
-Enzo & Yacine
+Enzo & Valentino
 
 Projet Geoworld 
 
-Lien du github :  https://github.com/EnzoPoint/GeoworldSIO12_Me
+Lien du github :  https://github.com/Valentino18/Geoworld
 <br>
 Lien du trello :
 https://trello.com/c/0CA7849f
